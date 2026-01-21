@@ -1,0 +1,13 @@
+# .NET build output (recursive)
+**/bin/
+**/obj/
+
+# Visual Studio
+.vs/
+
+# Test results
+**/*.trx
+TestResults/
+
+# Local run output
+**/artifacts/
